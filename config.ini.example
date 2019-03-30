@@ -1,0 +1,9 @@
+[API]
+irc_token =
+client_id =
+[CHAT]
+nick =
+prefix =
+[CHANNELS]
+# In format chanName=chanName
+chan1 = chan1
